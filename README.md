@@ -3,9 +3,9 @@
 A multi-screen Meals Recipies flutter app with instructions on how to prepare each recipe from different select cuisines, feature to favourite meals and filter meals based on user preferences.
 
 # Screenshots
-![Main Menu](menu.png) <br />
-![Meal Filter Options](filters.png) <br />
-![Selected Meal Information](meal.png)
+![](menu.png) <br />
+![](filters.png) <br />
+![](meal.png)
 
 <!-- ## Getting Started
 
