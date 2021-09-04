@@ -4,6 +4,8 @@ A multi-screen Meals Recipies flutter app with instructions on how to prepare ea
 
 # Screenshots
 ![](menu.png)
+![](filters.png)
+![](meal.png)
 
 <!-- ## Getting Started
 
