@@ -1,4 +1,4 @@
-# Meals Recipie App
+# Meals Recipe App
 
 A multi-screen Meals Recipies flutter app with instructions on how to prepare each recipe from different select cuisines, feature to favourite meals and filter meals based on user preferences.
 
